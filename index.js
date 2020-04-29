@@ -1,1 +1,2 @@
-var happyHolidays = "Happy holidays!"
+function happyHolidays = "Happy holidays!"
+
