@@ -1,3 +1,3 @@
-function happyHolidays() {
-  console.log("Happy holidays!")
+function happyHolidays() = {
+  "Happy holidays!"
 }
